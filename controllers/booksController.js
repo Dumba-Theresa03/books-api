@@ -18,7 +18,7 @@ const deleteBook =async(req, res)=>{
     }*/
 //delete a results
 const deleteBook =(req, res)=>{
-    res.json(books.filter((book)=>book.title!==req.params.name))
+    res.json(books.filter((book)=>book.title!=req.params.name))
 }
     
 

@@ -1,6 +1,6 @@
 const books =[
     {title:"The cock crows", author:"Theresa", publication:"08/04/31", type:"fiction"},
-    {title:"Things fall apart", author:"chinedu", publication:"04/02/21", type:"fiction"},
+    {title:"The gods are not to be blamed", author:"dumba", publication:"03/02/32", type:"fiction"},
     {title:"Things fall apart", author:"chinedu", publication:"04/02/21", type:"fiction"},
     {title:"Things fall apart", author:"chinedu", publication:"04/02/21", type:"fiction"},
     {title:"Things fall apart", author:"chinedu", publication:"04/02/21", type:"fiction"},
